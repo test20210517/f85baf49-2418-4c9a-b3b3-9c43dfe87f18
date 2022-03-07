@@ -1,0 +1,13 @@
+{
+    "name": "Demo Workspace",
+    "entry": "main.view.panopticon"
+    "presets": [{ 
+      "type": "HTML",
+      "name": "Demo Preset",
+      "parameters": {
+        "title": "Demo Preset",
+        "html": "Demo {{demoParameter}}"
+        }
+      }
+    ]
+}
